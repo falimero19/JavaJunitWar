@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('prepare') {
       steps {
-        git(url: 'https://github.com/falimero19/JavaJunitWar2.git', branch: '/*main')
+        git(url: 'https://github.com/falimero19/JavaJunitWar2.git', branch: 'main')
         sh 'echo "hello world"'
       }
     }
