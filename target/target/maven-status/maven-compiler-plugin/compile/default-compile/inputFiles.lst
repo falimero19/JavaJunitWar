@@ -1,0 +1,11 @@
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/SampleApplication.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/model/Item.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/ItemService.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/external/ExternalSystemProxy.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/RateService.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/external/HostService.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/external/AddressService.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/tools/StaticService.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/model/Customer.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/repository/ItemRepository.java
+/home/fatima/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/CustomerService.java
